@@ -1,2 +1,2 @@
 # Library
-It's about the job's process of a library.
+It's about the work process of a library.
